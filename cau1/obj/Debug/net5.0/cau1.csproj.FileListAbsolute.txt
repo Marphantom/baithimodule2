@@ -1,0 +1,16 @@
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.exe
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.deps.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.runtimeconfig.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.runtimeconfig.dev.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\ref\cau1.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\bin\Debug\net5.0\cau1.pdb
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.csproj.AssemblyReference.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.AssemblyInfoInputs.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.AssemblyInfo.cs
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.csproj.CoreCompileInputs.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\ref\cau1.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.pdb
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau1\obj\Debug\net5.0\cau1.genruntimeconfig.cache
